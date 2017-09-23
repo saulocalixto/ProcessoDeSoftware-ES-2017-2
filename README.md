@@ -1,5 +1,4 @@
 # Processo de Software - 2017/2
-Projeto feito para o curo Nanodegree Desenvolvedor React da Udacity, módulo de Redux
 
 ### Participantes
 * Fernando Henrique Quicano
